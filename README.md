@@ -72,4 +72,4 @@ npm run dev
 For any inquiries, feel free to reach out:
 
 - Author: Sonali Chaudhari
-- Email: sonalichaudhari219@gmail.com
+- Linkedin Profile: https://www.linkedin.com/in/sonali-chaudhari-08a84620b/
