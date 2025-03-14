@@ -1,6 +1,6 @@
-# Email AI Extension
+# Prompt Mail AI
 
-The **Email AI Extension** is a Chrome extension that provides auto-generated email replies based on the tone and style requirements of the email (professional, casual, friendly). This project integrates **SpringBoot** for the backend, **ReactJS** for the frontend, and a **user-defined Chrome extension** to provide the core functionality. The extension utilizes the **Gemini API 2.0 model** to generate replies dynamically.
+The **Prompt Mail AI** is a Chrome extension that provides auto-generated email replies based on the tone and style requirements of the email (professional, casual, friendly). This project integrates **SpringBoot** for the backend, **ReactJS** for the frontend, and a **user-defined Chrome extension** to provide the core functionality. The extension utilizes the **Gemini API 2.0 model** to generate replies dynamically.
 
 ## Table of Contents
 1. [Description](#description)
@@ -31,7 +31,7 @@ This project enables users to automate their email responses through a Chrome ex
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Sonali2109/Email_AI_Extension.git
+git clone https://github.com/Sonali2109/PromptMailAI.git
 cd email-ai-extension
 ```
 
