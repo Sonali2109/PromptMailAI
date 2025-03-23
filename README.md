@@ -22,7 +22,6 @@ This project enables users to automate their email responses through a Chrome ex
 
 - **Backend**: SpringBoot
 - **Frontend**: ReactJS
-- **Chrome Extension**: JavaScript, HTML, CSS
 - **API**: Gemini API 2.0 (for AI-generated responses)
 
 ## Installation
